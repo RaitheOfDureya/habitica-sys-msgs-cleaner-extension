@@ -13,7 +13,7 @@ The change is only temporary and is undone as soon as the extension is deactivat
 ![](images-readme/chat-clean.jpeg)
 
 ## Compatibility
-This extension is compatible with Google Chrome, Chromium, Firefox and Brave Web Browsers.
+This extension is compatible with Google Chrome, Chromium, Firefox, Opera, and Brave Web Browsers.
 
 ## Content
 It contains seven files: `manifest.json`, `background.js`, `content.js`, `popup.html`, `popup.js`, `icon.png`, and `logo.png`.

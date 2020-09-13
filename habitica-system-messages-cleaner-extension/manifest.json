@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Habitica System Messages Cleaner",
+  "version": "1.0",
+  "description": "This extension hides Habitica system messages within a party chat (e.g., spells, boss damage, etc.)",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+      "https://habitica.com/", "storage"
+    ]
+}

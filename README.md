@@ -44,6 +44,14 @@ It contains seven files: `manifest.json`, `background.js`, `content.js`, `popup.
 
 *Congratulations! You did it! :tada::tada::tada: Now the Habitica System Messages Cleaner Extension is loaded in your browser and ready to help you!*
 
+## Contributing
+
+See our [Contributing Guidelines](CONTRIBUTING.md).
+
+## Code of Conduct
+
+See our [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Credits
 <div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
